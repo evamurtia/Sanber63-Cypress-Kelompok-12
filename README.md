@@ -1,2 +1,2 @@
-# Sanber63-Cypress-Kelompok-12
-Repository Kelompok 12 - Sanber63
+# Sanber63-Cypress-Learning
+Learning - Sanber63
